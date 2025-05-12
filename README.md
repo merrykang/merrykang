@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Growing%20Merry!)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Growing%20Merry!&fontSize=60&desc=성장하는%20것이%20즐거운%20개발자,%20강혜리입니다!%20(a.k.a.%20Merry)&descAlignY=70&descAlign=middle)
 
 <!--
 **merrykang/merrykang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-
   <img src="https://img.shields.io/badge/성장-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/고객-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/소통-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/효율적인_개발-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/자동화-4C585B?style=for-the-badge&logoColor=white" height="40"/>
-
 </div>
 
+<br/>
 
 #### AI 모델링으로 IT 개발에 입문하였으나, ***비즈니스 로직 개발***에 보다 흥미를 느껴 백엔드 학습을 시작하였습니다.
 #### ERD 설계 → API 개발 → 클라이언트 통신 → CI/CD → 성능 개선까지 ***백엔드 개발 전반을 경험***하였습니다.
