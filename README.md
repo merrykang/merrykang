@@ -1,4 +1,4 @@
-## Hello I'm Hyeri 👋
+## Hello I'm Hyeri 🌱
 
 <!--
 **merrykang/merrykang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+## 🛠 Projects
 
 <br/>
 
@@ -38,10 +42,9 @@ Here are some ideas to get you started:
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B.svg?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
-#### MLOps (입문 단계)
+#### MLOps (Basic level)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-3C9CEA.svg?&style=for-the-badge&logo=mlflow&logoColor=white)
