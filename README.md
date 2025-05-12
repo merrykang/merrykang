@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <br/>
+![성장](https://img.shields.io/badge/성장-2ecc71?style=for-the-badge&logoColor=white)
+![고객](https://img.shields.io/badge/고객-2ecc71?style=for-the-badge&logoColor=white)
+![소통](https://img.shields.io/badge/소통-2ecc71?style=for-the-badge&logoColor=white)
+![효율적인 개발](https://img.shields.io/badge/효율적인_개발-2ecc71?style=for-the-badge&logoColor=white)
+![자동화](https://img.shields.io/badge/자동화-2ecc71?style=for-the-badge&logoColor=white)
 
 - AI 모델링으로 IT 개발에 입문하였으나, ***비즈니스 로직 개발***에 보다 흥미를 느껴 백엔드 학습을 시작하였습니다.
 - ERD 설계 → API 개발 → 클라이언트 통신 → CI/CD → 성능 개선까지 ***백엔드 개발 전반을 경험***하였습니다.
