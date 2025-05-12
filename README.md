@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 ### ☁️ Infra / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900.svg?&style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B.svg?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 ### 🧪 MLOps (입문 단계)
@@ -48,11 +48,8 @@ Here are some ideas to get you started:
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-3C9CEA.svg?&style=for-the-badge&logo=mlflow&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-003BDE.svg?&style=for-the-badge&logo=kubeflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔧 ETC / Tools
+### 🔧 ETC
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
@@ -63,8 +60,9 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
 <br/>
+
+## 📊 Metrics
 
 <table align="center">
   <tr>
