@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--2. 깃허브 통계-->
-![Hyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrykang&show_icons=true&theme=merko)
+<table align="center">
+  <tr>
+    <td style="padding: 30px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=merrykang&show_icons=true&theme=dark" />
+    </td>
+    <td style="width: 30px;"></td>
+    <td style="padding: 30px;">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghl1111" />
+    </td>
+  </tr>
+</table>
 
-<!--2. 백준 티어-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghl1111)](https://solved.ac/kanghl1111/)
+
