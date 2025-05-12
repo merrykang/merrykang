@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--1. 백준 티어-->
+
+<!--2. 깃허브 통계-->
+![Hyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=merrykang&show_icons=true&theme=merko)
+
+<!--2. 백준 티어-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghl1111)](https://solved.ac/kanghl1111/)
