@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+
 <table align="center">
   <tr>
     <td style="padding: 30px;">
@@ -26,5 +28,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<br/>
 
 
