@@ -17,11 +17,11 @@
 
 <br/>
 
-# Projects & Studies
+<!--# Projects & Studies
 - 기술 스택 분류하거나, 근무처 구분하거나 해서 분류하면 좋을듯
 - 스터디 내용도 추가하면 좋을듯
 
-<br/>
+<br/> -->
 
 # Skills
 
