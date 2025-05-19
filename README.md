@@ -31,7 +31,7 @@
 | [버전 자동 업데이트 기능 개발](https://github.com/kb-final-team4/crimefin) | 블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발 |
 | [클라우드 웹 서버 구축 TF팀](https://github.com/kb-final-team4/crimefin) | AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여 |
 | [Crime-Fin](https://github.com/kb-final-team4/crimefin) | 금융 범죄 판단 및 대응을 위한 플랫폼 |
-| [폐 질환 원인 분류 AI 모델링](https://github.com/kb-final-team4/crimefin) | COVID-19 폐 이미지 데이터를 이용하여 폐 질환 원인을 분류하는 AI 모델링 |
+| [폐 질환 원인 분류 AI 모델링](https://github.com/merrykang/covid19_sungshin) | COVID-19 폐 이미지 데이터를 이용하여 폐 질환 원인을 분류하는 AI 모델링 |
 
 <br/>
 
