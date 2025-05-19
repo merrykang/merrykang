@@ -25,36 +25,37 @@
 
 # Projects
 
-<table width="100%">
+<table width="100%" align="center">
   <thead>
     <tr>
-      <th>프로젝트명</th>
-      <th>소개</th>
+      <th style="text-align:center;">프로젝트명</th>
+      <th style="text-align:center;">소개</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kb-final-team4/crimefin">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
-      <td>블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포</td>
+      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
+      <td style="text-align:center;">블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kb-final-team4/crimefin">버전 자동 업데이트 기능 개발</a></td>
-      <td>블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발</td>
+      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">버전 자동 업데이트 기능 개발</a></td>
+      <td style="text-align:center;">블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kb-final-team4/crimefin">클라우드 웹 서버 구축 TF팀</a></td>
-      <td>AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여</td>
+      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">클라우드 웹 서버 구축 TF팀</a></td>
+      <td style="text-align:center;">AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kb-final-team4/crimefin">Crime-Fin</a></td>
-      <td>금융 범죄 판단 및 대응을 위한 플랫폼</td>
+      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">Crime-Fin</a></td>
+      <td style="text-align:center;">금융 범죄 판단 및 대응을 위한 플랫폼</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/merrykang/covid19_sungshin">폐 질환 원인 분류 AI 모델링</a></td>
-      <td>COVID-19 폐 이미지 데이터를 이용하여 폐 질환 원인을 분류하는 AI 모델링</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/covid19_sungshin">폐 질환 원인 분류 AI 모델링</a></td>
+      <td style="text-align:center;">COVID-19 폐 이미지 데이터를 이용하여 폐 질환 원인을 분류하는 AI 모델링</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <!--| 프로젝트명 | 소개 |
