@@ -23,6 +23,14 @@
 
 <br/> -->
 
+# Projects
+
+| 프로젝트명 | 소개 |
+|------------|------|
+| [Crime-Fin](https://github.com/kb-final-team4/crimefin) | 금융 범죄 판단 및 대응을 위한 플랫폼 |
+
+<br/>
+
 # Skills
 
 ### Languages
