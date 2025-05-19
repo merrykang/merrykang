@@ -23,39 +23,39 @@
 
 <br/> -->
 
-# Projects
+# Projects & Studies
 
 <table width="100%" align="center">
   <thead>
     <tr>
-      <th style="text-align:center;">프로젝트명</th>
-      <th style="text-align:center;">소개</th>
+      <th style="text-align:center;">참여 프로젝트</th>
+      <th style="text-align:center;">참여 스터디</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/realtime-tfjs">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
-      <td style="text-align:center;">블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포 프로젝트</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/algorithm">알고리즘 문제 풀이</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/autoupdater-aws">버전 자동 업데이트 기능 개발</a></td>
-      <td style="text-align:center;">블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발 프로젝트</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/jpa-api-optimization-study">실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/blockcoding-android">버전 자동 업데이트 기능 개발</a></td>
-      <td style="text-align:center;">블록 코딩 소프트웨어의 안드로이드 앱 버전 개발 프로젝트</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/realtime-tfjs">LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/webserver-tf">클라우드 웹 서버 구축 TF팀</a></td>
-      <td style="text-align:center;">AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여한 기록</td>
+      <td style="text-align:center;"></td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">Crime-Fin</a></td>
-      <td style="text-align:center;">금융 범죄 판단 및 대응을 위한 플랫폼</td>
+      <td style="text-align:center;"></td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/covid19_sungshin">폐 질환 원인 분류 AI 모델링</a></td>
-      <td style="text-align:center;">COVID-19 폐 이미지 데이터를 이용하여 폐 질환 원인을 분류하는 AI 모델링</td>
+      <td style="text-align:center;"></td>
     </tr>
   </tbody>
 </table>
