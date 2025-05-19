@@ -35,15 +35,19 @@
   <tbody>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/realtime-tfjs">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
-      <td style="text-align:center;">블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포</td>
+      <td style="text-align:center;">블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포 프로젝트</td>
     </tr>
     <tr>
-      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">버전 자동 업데이트 기능 개발</a></td>
-      <td style="text-align:center;">블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/autoupdater-aws">버전 자동 업데이트 기능 개발</a></td>
+      <td style="text-align:center;">블록 코딩 데스크톱 앱의 버전 자동 업데이트 기능 개발 프로젝트</td>
     </tr>
     <tr>
-      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">클라우드 웹 서버 구축 TF팀</a></td>
-      <td style="text-align:center;">AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/blockcoding-android">버전 자동 업데이트 기능 개발</a></td>
+      <td style="text-align:center;">블록 코딩 소프트웨어의 안드로이드 앱 버전 개발 프로젝트</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/webserver-tf">클라우드 웹 서버 구축 TF팀</a></td>
+      <td style="text-align:center;">AWS Lightsail 기반 블록 코딩 소프트웨어 웹 서버 구축을 위한 TF팀에 참여한 기록</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">Crime-Fin</a></td>
