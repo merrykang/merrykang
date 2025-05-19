@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/blockcoding-android">버전 자동 업데이트 기능 개발</a></td>
-      <td style="text-align:center;"><a href="https://github.com/merrykang/realtime-tfjs">LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps</td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/llmops-study">LLMOps Masterclass 2025 - Generative AI - MLOps - AIOps</td>
     </tr>
     <tr>
       <td style="text-align:center;"><a href="https://github.com/merrykang/webserver-tf">클라우드 웹 서버 구축 TF팀</a></td>
