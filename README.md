@@ -34,7 +34,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;"><a href="https://github.com/kb-final-team4/crimefin">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
+      <td style="text-align:center;"><a href="https://github.com/merrykang/realtime-tfjs">손 모양, 얼굴, 포즈 인식 AI 기능 개발</a></td>
       <td style="text-align:center;">블록 코딩 소프트웨어에 실시간 영상 기반 AI 기능 개발 및 배포</td>
     </tr>
     <tr>
