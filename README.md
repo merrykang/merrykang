@@ -2,11 +2,11 @@
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-  <img src="https://img.shields.io/badge/성장-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/고객-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/소통-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/효율적인_개발-4C585B?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/자동화-4C585B?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/성장-D0DDD0?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/고객-D0DDD0?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/소통-D0DDD0?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/효율적인_개발-D0DDD0?style=for-the-badge&logoColor=white" height="40"/> &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/자동화-D0DDD0?style=for-the-badge&logoColor=white" height="40"/>
 </div>
 
 <br/>
